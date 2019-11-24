@@ -23,6 +23,6 @@ export class CartService {
   }
 
   getShoppingPrice(){
-    return this.http.get('assets/shopping.json');
+    return this.http.get('assets/shipping.json');
   }
 }
