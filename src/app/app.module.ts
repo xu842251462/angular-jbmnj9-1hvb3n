@@ -8,7 +8,7 @@ import { TopBarComponent } from './top-bar/top-bar.component';
 import { ProductListComponent } from './product-list/product-list.component';
 import { ProductAlertsComponent } from './product-alerts/product-alerts.component';
 import { ProductDetailsComponent } from './product-details/product-details.component';
-import { CartServiceComponent } from './cart-service/cart-service.component';
+
 import { CartService } from './cart.service';
 import { CartComponent } from './cart/cart.component';
 
